@@ -27,4 +27,4 @@ If everything before this step worked, you should see a prompt, similar to
 
 orator (disconnected):>
 ```
-Type `help` for firther instructions
+Type `help` on the command line for further instructions.
