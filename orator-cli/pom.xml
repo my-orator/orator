@@ -8,7 +8,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Orator</name>
+  <name>The Orator CLI</name>
   <description>The Orator - It reads to you</description>
 
   <parent>
@@ -103,6 +103,7 @@
         <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
           <executable>true</executable>
+          <finalName>orator</finalName>
         </configuration>
       </plugin>
     </plugins>
